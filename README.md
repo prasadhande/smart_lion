@@ -27,3 +27,8 @@ This is a simple String Calculator implemented in Ruby using Test-Driven Develop
    ```sh
    git clone https://github.com/yourusername/string_calculator.git
    cd string_calculator
+
+
+   # Install dependencies:
+
+   bundle
